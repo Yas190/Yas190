@@ -16,18 +16,18 @@ Olá! 👋 Sou Analista de Dados com 3 anos de experiência de mercado, dedicada
 
 ### 💻 Tecnologias que utilizo no meu dia a dia:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Yasmin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Yasmin-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Yasmin-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Yasmin-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white)
 
 ---
 
 ### 🌱 Meus Interesses e Estudos Atuais
 
-Atualmente, estou explorando um **projeto com dados do Spotify** para criar um sistema de recomendação simplificado e analisar tendências musicais ao longo do tempo. Estou aberta a colaborar em projetos que envolvam **Python, SQL e modelagem preditiva**.
+Estou aberta a colaborar em projetos que envolvam **Python, SQL e modelagem preditiva**.
 
 * 📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/yasmin-oliveira-67a56818b/)
 * ⚡ **Fato curioso:** Acredito que a melhor trilha sonora para o código perfeito é o som da chuva e uma playlist de 'Oldies'.
