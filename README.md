@@ -2,7 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-pires-67a56818b/)
 
-Olá! 👋 Sou Analista de Dados com 3 anos de experiência de mercado, dedicada a encontrar narrativas e soluções dentro dos números. Minha jornada profissional é enriquecida pela graduação em **Estatística** (8/10), onde aprofundo minha base analítica para criar soluções mais robustas e eficientes.
+Olá! 👋 Sou Analista de Dados com 3 anos de experiência de mercado, dedicada a encontrar narrativas e soluções dentro dos números. Minha jornada profissional é enriquecida pela graduação em **Estatística** (9/10), onde aprofundo minha base analítica para criar soluções mais robustas e eficientes.
 
 ---
 
